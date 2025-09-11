@@ -51,4 +51,4 @@ print("The most likely sequence of weather is:",most_likely_sequence)
 
 
 ## Result:
-Thus Hidden Markov Model is implemented
+Thus Hidden Markov Model is implemented.
