@@ -45,13 +45,7 @@ print("The most likely sequence of weather is:",most_likely_sequence)
 
 ## Output:
 
-<img width="1123" height="63" alt="4 output" src="https://github.com/user-attachments/assets/f2e1d5e3-8c4a-4066-bd88-64ce8e605be4" />
-
-## Result:
-Thus Hidden Markov Model is implemented using python.
-
 <img width="988" alt="Screenshot 2025-04-16 at 11 41 06 AM" src="https://github.com/user-attachments/assets/d17ec691-fb0f-465c-956e-b4ca6e117bd9" />
-
 
 ## Result:
 Thus Hidden Markov Model is implemented.
