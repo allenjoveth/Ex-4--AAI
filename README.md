@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME: ALLEN JOVETH P</H3>
 <H3>ENTER YOUR REGISTER NO.212223240007 </H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:09-09-2025</H3>
+<H3>DATE:18-09-2025</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
@@ -45,7 +45,10 @@ print("The most likely sequence of weather is:",most_likely_sequence)
 
 ## Output:
 
-<img width="665" alt="Screenshot 2025-04-16 at 11 42 03 AM" src="https://github.com/user-attachments/assets/4a205a1d-b504-42f7-9702-ab360411eb8b" />
+<img width="1123" height="63" alt="4 output" src="https://github.com/user-attachments/assets/f2e1d5e3-8c4a-4066-bd88-64ce8e605be4" />
+
+## Result:
+Thus Hidden Markov Model is implemented using python.
 
 <img width="988" alt="Screenshot 2025-04-16 at 11 41 06 AM" src="https://github.com/user-attachments/assets/d17ec691-fb0f-465c-956e-b4ca6e117bd9" />
 
